@@ -680,7 +680,7 @@
                                             color: "",
                                             fontSize: "30px"
                                         },
-                                        children: "Listing Price is $0.0006"
+                                        children: "Listing Price is $0.0006 LUPI tokens are sent directly to your wallet.."
                                     }), Object(h.jsx)("h3", {
                                         
                                     }), ]
